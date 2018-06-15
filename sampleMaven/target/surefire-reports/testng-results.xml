@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="specs.DemoTest" duration-ms="46" started-at="2018-06-15T12:32:15Z" finished-at="2018-06-15T12:32:15Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="46" started-at="2018-06-15T12:32:15Z" finished-at="2018-06-15T12:32:15Z">
+      <class name="specs.DemoTest">
+        <test-method status="PASS" signature="div()[pri:0, instance:specs.DemoTest@3f0ee7cb]" name="div" duration-ms="0" started-at="2018-06-15T18:02:15Z" finished-at="2018-06-15T18:02:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- div -->
+        <test-method status="PASS" signature="sum()[pri:0, instance:specs.DemoTest@3f0ee7cb]" name="sum" duration-ms="0" started-at="2018-06-15T18:02:15Z" finished-at="2018-06-15T18:02:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sum -->
+        <test-method status="PASS" signature="sub()[pri:0, instance:specs.DemoTest@3f0ee7cb]" name="sub" duration-ms="0" started-at="2018-06-15T18:02:15Z" finished-at="2018-06-15T18:02:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sub -->
+        <test-method status="PASS" signature="mul()[pri:0, instance:specs.DemoTest@3f0ee7cb]" name="mul" duration-ms="0" started-at="2018-06-15T18:02:15Z" finished-at="2018-06-15T18:02:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mul -->
+      </class> <!-- specs.DemoTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- specs.DemoTest -->
+</testng-results>
