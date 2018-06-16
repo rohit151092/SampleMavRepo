@@ -21,7 +21,7 @@ public class DemoTest {
 	public void mul() {
 		int a=20;
 		int b=10;
-		Assert.assertEquals(a*b, 20);
+		Assert.assertEquals(a*b, 209);
 	}
 	@Test
 	public void div() {
